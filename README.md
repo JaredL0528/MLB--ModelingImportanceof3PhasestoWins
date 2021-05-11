@@ -5,4 +5,7 @@
 Includes code to scrape every team's basic batting, pitching, and fielding data from BaseballReference. We also scrape the standings for each season from 2000-2020 and join that data with the team stats for those years.
 
 `SAL384FinalData.csv`
-Result of the web scraping. 
+Result of the web scraping. Data includes basic batting statistics like HR, H, and OPS+. Pitching stats including SO, FIP, and WHIP can also be found in the data. Some fielding stats include DefEff, E, and Fld%. 
+
+*This data was scraped from BaseballReference.*
+*Link: https://www.baseball-reference.com/*

@@ -17,4 +17,4 @@ Includes code to create our four visualizations used in our presentation. Three 
 
 ## Code -- Implementing the Models
 `FinalProjectModels.ipynb`
-Include code to implement the three models used in our presentation. The first model regresses RS (Batting) and RA (Pitching/Fielding) to Win%. The second regresses different batting stats to RS and the third model regresses different pitching and fielding stats to RA.
+Includes code to implement the three models used in our presentation. The first model regresses RS (Batting) and RA (Pitching/Fielding) to Win%. The second regresses different batting stats to RS and the third model regresses different pitching and fielding stats to RA.
